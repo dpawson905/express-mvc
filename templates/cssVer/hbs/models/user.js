@@ -1,0 +1,3 @@
+/*
+This is the user model file. Set this up to suit your needs. 
+*/
