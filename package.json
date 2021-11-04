@@ -1,5 +1,5 @@
 {
-  "name": "express-mvc",
+  "name": "express-mvc-templates",
   "version": "1.0.0",
   "description": "A tool to create a MVC layout using express",
   "main": "index.js",
@@ -9,13 +9,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpawson905/express-mvc.git"
+  },
   "keywords": [
     "express",
     "mvc",
-    "express-mvc"
+    "express-mvc",
+    "templates",
+    "express-mvc-templates"
   ],
   "author": "Darrell Pawson <dpawson905@gmail.com> (https://blog.djpawson.me)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpawson905/express-mvc/issues"
+  },
   "dependencies": {
     "chalk": "^4.1.2",
     "clear": "^0.1.0",
