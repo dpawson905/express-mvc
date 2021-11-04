@@ -10,7 +10,7 @@ clear();
 
 console.log(
   chalk.blue(
-    figlet.textSync("Express-MVC", { font: "doom", horizontalLayout: "full" })
+    figlet.textSync("Express-MVC", { font: "Doom", horizontalLayout: "full" })
   )
 );
 
