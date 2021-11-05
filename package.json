@@ -8,19 +8,16 @@
     "exmvt": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "check-updates": "ncu",
-    "install": "npm i"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/dpawson905/express-mvc.git"
   },
   "keywords": [
-    "express",
     "mvc",
     "express-mvc",
-    "templates",
+    "mvc-templates",
     "express-mvc-templates"
   ],
   "author": "Darrell Pawson <dpawson905@gmail.com> (https://blog.djpawson.me)",
@@ -28,12 +25,7 @@
   "bugs": {
     "url": "https://github.com/dpawson905/express-mvc/issues"
   },
-  "files": [
-    "Readme.md",
-    "index.js",
-    "lib/",
-    "templates/"
-  ],
+  "homepage": "https://github.com/dpawson905/express-mvc",
   "dependencies": {
     "chalk": "^4.1.2",
     "clear": "^0.1.0",
