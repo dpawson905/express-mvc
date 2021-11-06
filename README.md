@@ -2,7 +2,7 @@
 
 ![linux](https://github.com/dpawson905/express-mvc/actions/workflows/linux.yaml/badge.svg)
 ![windows](https://github.com/dpawson905/express-mvc/actions/workflows/windows.yaml/badge.svg)
-![NPM Downloads](https://img.shields.io/npm/dw/express-mvc-templates?style=plastic)
+![NPM Downloads](https://img.shields.io/npm/dw/express-mvc-templates?style=flat)
 
 This is a simple cli application that will copy generic MVC templates. You can select EJS, HBS or PUG.
 You can also choose css or sass stylesheets as well.
