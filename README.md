@@ -1,8 +1,9 @@
 # Express-MVC
 
-![linux](https://img.shields.io/github/workflow/status/dpawson905/express-mvc/linux?style=for-the-badge)
-![windows](https://img.shields.io/github/workflow/status/dpawson905/express-mvc/windows?style=for-the-badge)
-![NPM Downloads](https://img.shields.io/npm/dw/express-mvc-templates?style=for-the-badge)
+![linux](https://img.shields.io/github/workflow/status/dpawson905/express-mvc/linux?label=linux&logo=Linux&logoColor=blue&style=for-the-badge)
+![windows](https://img.shields.io/github/workflow/status/dpawson905/express-mvc/windows?label=linux&logo=windows&logoColor=blue&style=for-the-badge)
+![tests](https://img.shields.io/github/workflow/status/dpawson905/express-mvc/CodeQL?label=CodeQl&logo=Git&logoColor=blue&style=for-the-badge)
+![NPM Downloads](https://img.shields.io/npm/dw/express-mvc-templates?logo=npm&style=for-the-badge)
 
 This is a simple cli application that will copy generic MVC templates. You can select EJS, HBS or PUG.
 You can also choose css or sass stylesheets as well.
