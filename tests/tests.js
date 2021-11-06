@@ -1,9 +1,10 @@
+require = require("esm")(module /*, options*/);
 const assert = require("assert");
 
-describe('Array', function() {
-  describe('#indexOf()', function() {
-    it('should return -1 when the value is not present', function() {
-      assert.equal([1, 2, 3].indexOf(4), -1);
+describe('Start', function() {
+  describe('check for files', function() {
+    it('should stop the cli because the dir is not empty', function() {
+      require("../lib/files").isDirEmpty(process.cwd());
     });
   });
 });
