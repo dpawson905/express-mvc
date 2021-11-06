@@ -1,7 +1,7 @@
 # Express-MVC
 
 ![linux](https://img.shields.io/github/workflow/status/dpawson905/express-mvc/linux?label=linux&logo=Linux&logoColor=blue&style=for-the-badge)
-![windows](https://img.shields.io/github/workflow/status/dpawson905/express-mvc/windows?label=linux&logo=windows&logoColor=blue&style=for-the-badge)
+![windows](https://img.shields.io/github/workflow/status/dpawson905/express-mvc/windows?label=windows&logo=windows&logoColor=blue&style=for-the-badge)
 ![tests](https://img.shields.io/github/workflow/status/dpawson905/express-mvc/CodeQL?label=CodeQl&logo=Git&logoColor=blue&style=for-the-badge)
 ![NPM Downloads](https://img.shields.io/npm/dw/express-mvc-templates?logo=npm&style=for-the-badge)
 
