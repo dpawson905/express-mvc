@@ -1,5 +1,7 @@
 # Express-MVC
 
+![linux](https://github.com/dpawson905/express-mvc/actions/workflows/github-actions.yaml/badge.svg)
+
 This is a simple cli application that will copy generic MVC templates. You can select EJS, HBS or PUG.
 You can also choose css or sass stylesheets as well.
 
