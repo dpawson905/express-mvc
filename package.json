@@ -5,7 +5,7 @@
   "main": "index.js",
   "bin": {
     "express-mvc-templates": "./index.js",
-    "exmvt": "./index.js"
+    "exmvc": "./index.js"
   },
   "scripts": {
     "test": "mocha ./tests/tests.js"
